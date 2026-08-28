@@ -1,0 +1,6 @@
+{
+  "name": "Thành Audio Warranty Pro",
+  "description": "Hệ thống quản lý bảo hành điện tử, bản quyền bảo mật, quản lý chi nhánh, Import/Export Excel và tiếp nhận sửa chữa RMA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
